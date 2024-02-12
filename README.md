@@ -1,2 +1,4 @@
 # Apple_Data_Analysis
-Grabbed a csv of apple data on Kaggle, did some analysis and had some fun!
+*Analyzed an apple quality dataset from Kaggle. The dataset features 9 total variables: ID, Juiciness, Acidity, Size, Weight, Crunchiness, Ripeness, Sweetness and Quality, the latter being the only nonnumerical set of data in the dataset. I created multiple visualizations to analyze the correlations between different variables and multiple machine learning models to predict the quality of apples, using the variables provided in the dataset.*
+
+This project was created for Proofpoint and UC Berkeley's Data Discovery program. One of our assignments was to analyze a set of data and create a model for that set of data. The set of data can be found [here]([url](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality).
